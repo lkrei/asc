@@ -1,0 +1,13 @@
+{
+  "accuracy": 0.7933723196881092,
+  "balanced_accuracy": 0.7840630787618248,
+  "macro_f1": 0.785592309795968,
+  "models": [
+    "resnet50_finetune",
+    "efficientnet_b0_finetune",
+    "convnext_small_finetune",
+    "vit_b16_finetune",
+    "swin_s_finetune"
+  ],
+  "method": "probability_averaging"
+}

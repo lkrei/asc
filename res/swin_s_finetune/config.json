@@ -1,0 +1,11 @@
+{
+  "name": "swin_s_finetune",
+  "model": "swin_s",
+  "batch_size": 16,
+  "image_size": 224,
+  "lr_backbone": 5e-06,
+  "lr_head": 0.001,
+  "epochs": 25,
+  "patience": 7,
+  "augmentation": "randaugment"
+}

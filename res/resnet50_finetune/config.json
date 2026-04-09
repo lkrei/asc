@@ -1,0 +1,11 @@
+{
+  "name": "resnet50_finetune",
+  "model": "resnet50",
+  "batch_size": 32,
+  "image_size": 224,
+  "lr_backbone": 1e-05,
+  "lr_head": 0.001,
+  "epochs": 25,
+  "patience": 7,
+  "augmentation": "autoaugment"
+}

@@ -1,0 +1,11 @@
+{
+  "name": "convnext_small_finetune",
+  "model": "convnext_small",
+  "batch_size": 16,
+  "image_size": 224,
+  "lr_backbone": 1e-05,
+  "lr_head": 0.001,
+  "epochs": 25,
+  "patience": 7,
+  "augmentation": "autoaugment"
+}

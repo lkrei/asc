@@ -1,0 +1,174 @@
+{
+  "accuracy": 0.7842755035737492,
+  "balanced_accuracy": 0.777173229851553,
+  "macro_f1": 0.7774481128015089,
+  "weighted_f1": 0.7839064260499835,
+  "classification_report": {
+    "Achaemenid architecture": {
+      "precision": 0.9818181818181818,
+      "recall": 0.9,
+      "f1-score": 0.9391304347826087,
+      "support": 60.0
+    },
+    "American Foursquare architecture": {
+      "precision": 0.7413793103448276,
+      "recall": 0.7818181818181819,
+      "f1-score": 0.7610619469026548,
+      "support": 55.0
+    },
+    "American craftsman style": {
+      "precision": 0.75,
+      "recall": 0.75,
+      "f1-score": 0.75,
+      "support": 56.0
+    },
+    "Ancient Egyptian architecture": {
+      "precision": 0.9538461538461539,
+      "recall": 1.0,
+      "f1-score": 0.9763779527559056,
+      "support": 62.0
+    },
+    "Art Deco architecture": {
+      "precision": 0.7741935483870968,
+      "recall": 0.8372093023255814,
+      "f1-score": 0.8044692737430168,
+      "support": 86.0
+    },
+    "Art Nouveau architecture": {
+      "precision": 0.8369565217391305,
+      "recall": 0.8279569892473119,
+      "f1-score": 0.8324324324324325,
+      "support": 93.0
+    },
+    "Baroque architecture": {
+      "precision": 0.7407407407407407,
+      "recall": 0.8695652173913043,
+      "f1-score": 0.8,
+      "support": 69.0
+    },
+    "Bauhaus architecture": {
+      "precision": 0.6808510638297872,
+      "recall": 0.6666666666666666,
+      "f1-score": 0.6736842105263158,
+      "support": 48.0
+    },
+    "Beaux-Arts architecture": {
+      "precision": 0.6818181818181818,
+      "recall": 0.6923076923076923,
+      "f1-score": 0.6870229007633588,
+      "support": 65.0
+    },
+    "Byzantine architecture": {
+      "precision": 0.7708333333333334,
+      "recall": 0.7708333333333334,
+      "f1-score": 0.7708333333333334,
+      "support": 48.0
+    },
+    "Chicago school architecture": {
+      "precision": 0.7083333333333334,
+      "recall": 0.7906976744186046,
+      "f1-score": 0.7472527472527473,
+      "support": 43.0
+    },
+    "Colonial architecture": {
+      "precision": 0.734375,
+      "recall": 0.6527777777777778,
+      "f1-score": 0.6911764705882353,
+      "support": 72.0
+    },
+    "Deconstructivism": {
+      "precision": 0.8888888888888888,
+      "recall": 0.7843137254901961,
+      "f1-score": 0.8333333333333334,
+      "support": 51.0
+    },
+    "Edwardian architecture": {
+      "precision": 0.5128205128205128,
+      "recall": 0.47619047619047616,
+      "f1-score": 0.49382716049382713,
+      "support": 42.0
+    },
+    "Georgian architecture": {
+      "precision": 0.578125,
+      "recall": 0.6379310344827587,
+      "f1-score": 0.6065573770491803,
+      "support": 58.0
+    },
+    "Gothic architecture": {
+      "precision": 0.9245283018867925,
+      "recall": 0.9607843137254902,
+      "f1-score": 0.9423076923076923,
+      "support": 51.0
+    },
+    "Greek Revival architecture": {
+      "precision": 0.8235294117647058,
+      "recall": 0.8860759493670886,
+      "f1-score": 0.8536585365853658,
+      "support": 79.0
+    },
+    "International style": {
+      "precision": 0.640625,
+      "recall": 0.640625,
+      "f1-score": 0.640625,
+      "support": 64.0
+    },
+    "Novelty architecture": {
+      "precision": 0.9818181818181818,
+      "recall": 0.9310344827586207,
+      "f1-score": 0.9557522123893806,
+      "support": 58.0
+    },
+    "Palladian architecture": {
+      "precision": 0.8048780487804879,
+      "recall": 0.6346153846153846,
+      "f1-score": 0.7096774193548387,
+      "support": 52.0
+    },
+    "Postmodern architecture": {
+      "precision": 0.68,
+      "recall": 0.6938775510204082,
+      "f1-score": 0.6868686868686869,
+      "support": 49.0
+    },
+    "Queen Anne architecture": {
+      "precision": 0.8165137614678899,
+      "recall": 0.8165137614678899,
+      "f1-score": 0.8165137614678899,
+      "support": 109.0
+    },
+    "Romanesque architecture": {
+      "precision": 0.8,
+      "recall": 0.8695652173913043,
+      "f1-score": 0.8333333333333334,
+      "support": 46.0
+    },
+    "Russian Revival architecture": {
+      "precision": 0.8653846153846154,
+      "recall": 0.8333333333333334,
+      "f1-score": 0.8490566037735849,
+      "support": 54.0
+    },
+    "Tudor Revival architecture": {
+      "precision": 0.847457627118644,
+      "recall": 0.7246376811594203,
+      "f1-score": 0.78125,
+      "support": 69.0
+    },
+    "accuracy": 0.7842755035737492,
+    "macro avg": {
+      "precision": 0.7807885887648593,
+      "recall": 0.777173229851553,
+      "f1-score": 0.7774481128015089,
+      "support": 1539.0
+    },
+    "weighted avg": {
+      "precision": 0.7864988719346538,
+      "recall": 0.7842755035737492,
+      "f1-score": 0.7839064260499835,
+      "support": 1539.0
+    }
+  },
+  "tta_policy": "original_plus_horizontal_flip",
+  "model": "convnext_small",
+  "checkpoint": "/Users/keirl/Desktop/thesis/results/convnext_small_finetune/best_model.pth"
+}

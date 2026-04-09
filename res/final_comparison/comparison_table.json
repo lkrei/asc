@@ -1,0 +1,57 @@
+[
+  {
+    "Experiment": "convnext_small_finetune",
+    "Model": "convnext_small",
+    "Accuracy": 0.7803768680961664,
+    "Balanced Acc": 0.7739445043504442,
+    "Macro F1": 0.7746165601832645,
+    "Weighted F1": 0.7802898943064057,
+    "Params (M)": 50.2,
+    "Epochs": 25,
+    "Time (min)": 142.71
+  },
+  {
+    "Experiment": "swin_s_finetune",
+    "Model": "swin_s",
+    "Accuracy": 0.7693307342430149,
+    "Balanced Acc": 0.761028959603931,
+    "Macro F1": 0.7612455757965841,
+    "Weighted F1": 0.7686181080966215,
+    "Params (M)": 49.6,
+    "Epochs": 25,
+    "Time (min)": 130.48
+  },
+  {
+    "Experiment": "vit_b16_finetune",
+    "Model": "vit_b_16",
+    "Accuracy": 0.7524366471734892,
+    "Balanced Acc": 0.7454999407360574,
+    "Macro F1": 0.7464283730841846,
+    "Weighted F1": 0.7523825128187703,
+    "Params (M)": 86.6,
+    "Epochs": 25,
+    "Time (min)": 166.53
+  },
+  {
+    "Experiment": "resnet50_finetune",
+    "Model": "resnet50",
+    "Accuracy": 0.7186484730344379,
+    "Balanced Acc": 0.7097224081523358,
+    "Macro F1": 0.7130805677398615,
+    "Weighted F1": 0.720850485931544,
+    "Params (M)": 25.6,
+    "Epochs": 25,
+    "Time (min)": 84.06
+  },
+  {
+    "Experiment": "efficientnet_b0_finetune",
+    "Model": "efficientnet_b0",
+    "Accuracy": 0.6933073424301495,
+    "Balanced Acc": 0.683314007985409,
+    "Macro F1": 0.682354501326072,
+    "Weighted F1": 0.6895516544291906,
+    "Params (M)": 5.3,
+    "Epochs": 25,
+    "Time (min)": 68.73
+  }
+]

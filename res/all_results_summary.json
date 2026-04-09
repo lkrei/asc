@@ -1,0 +1,42 @@
+{
+  "resnet50_finetune": {
+    "accuracy": 0.7186484730344379,
+    "balanced_accuracy": 0.7097224081523358,
+    "macro_f1": 0.7130805677398615,
+    "best_val_acc": 0.7177954847277557,
+    "epochs_trained": 25,
+    "training_time_min": 84.06
+  },
+  "efficientnet_b0_finetune": {
+    "accuracy": 0.6933073424301495,
+    "balanced_accuracy": 0.683314007985409,
+    "macro_f1": 0.682354501326072,
+    "best_val_acc": 0.6852589641434262,
+    "epochs_trained": 25,
+    "training_time_min": 68.73
+  },
+  "convnext_small_finetune": {
+    "accuracy": 0.7803768680961664,
+    "balanced_accuracy": 0.7739445043504442,
+    "macro_f1": 0.7746165601832645,
+    "best_val_acc": 0.7689243027888446,
+    "epochs_trained": 25,
+    "training_time_min": 142.71
+  },
+  "vit_b16_finetune": {
+    "accuracy": 0.7524366471734892,
+    "balanced_accuracy": 0.7454999407360574,
+    "macro_f1": 0.7464283730841846,
+    "best_val_acc": 0.7715803452855245,
+    "epochs_trained": 25,
+    "training_time_min": 166.53
+  },
+  "swin_s_finetune": {
+    "accuracy": 0.7693307342430149,
+    "balanced_accuracy": 0.761028959603931,
+    "macro_f1": 0.7612455757965841,
+    "best_val_acc": 0.7596281540504648,
+    "epochs_trained": 25,
+    "training_time_min": 130.48
+  }
+}
