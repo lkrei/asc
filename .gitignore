@@ -1,0 +1,73 @@
+# Data and model weights
+data/
+*.pth
+*.npz
+*.npy
+*.h5
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv*/
+venv/
+
+# Caches
+.cache/
+.hf_cache/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.cursor/
+.vscode/
+.idea/
+
+# Project-specific exclusions
+free_image_collector/
+archive/
+misc/
+templates/
+notebooks/
+scripts/
+
+# Generated reports (internal notes)
+PROJECT_SUMMARY.md
+results/RESULTS_CONCLUSIONS_AND_NEXT_STEPS.md
+results/EXPERIMENTAL_CHAPTER_STRUCTURE.md
+results/**/HYBRID_FOLLOWUP_REPORT.md
+results/**/EXTRA_EXPERIMENTS_REPORT.md
+results/**/ERROR_ANALYSIS_REPORT.md
+results/**/RESULTS_PACKAGE.md
+results/**/ATTRIBUTE_ALIGNMENT_NOTES.md
+results/**/INTERPRETABILITY_PACK.md
+results/.virtual_documents/
+
+# Splits with absolute paths (reproducible from code with seed=42)
+**/data_splits.json
+
+# Heavy result duplicates
+results/full_kaggle_output*/
+results/embeddings_*.npz
+results/embeddings_*.paths.json
+
+# PNG results (optional, keep comparison plots)
+results/**/*.png
+!results/final_comparison/*.png
+
+# README не включаем в удалённый репозиторий
+/README.md
+code/kaggle/README.md
+
+# Не публикуем (локально только)
+code/experiments/build_error_analysis_report.py
+code/experiments/compare_all.py
+code/experiments/curate_gradcam_examples.py
+code/experiments/post_kaggle_pipeline.sh
+code/experiments/run_hybrid_followup.sh
+code/kaggle/train_all_models.ipynb
+docs/abstracts/
+docs/plan/

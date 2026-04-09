@@ -1,0 +1,13 @@
+{
+  "id": "aredaw/train-all-models",
+  "title": "train-all-models",
+  "code_file": "train_all_models.ipynb",
+  "language": "python",
+  "kernel_type": "notebook",
+  "is_private": true,
+  "enable_gpu": true,
+  "enable_internet": true,
+  "dataset_sources": ["dumitrux/architectural-styles-dataset"],
+  "competition_sources": [],
+  "kernel_sources": []
+}

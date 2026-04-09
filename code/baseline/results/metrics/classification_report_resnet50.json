@@ -1,0 +1,165 @@
+{
+  "Achaemenid architecture": {
+    "precision": 0.8867924528301887,
+    "recall": 0.7833333333333333,
+    "f1-score": 0.831858407079646,
+    "support": 60.0
+  },
+  "American Foursquare architecture": {
+    "precision": 0.5507246376811594,
+    "recall": 0.6909090909090909,
+    "f1-score": 0.6129032258064516,
+    "support": 55.0
+  },
+  "American craftsman style": {
+    "precision": 0.40963855421686746,
+    "recall": 0.6071428571428571,
+    "f1-score": 0.4892086330935252,
+    "support": 56.0
+  },
+  "Ancient Egyptian architecture": {
+    "precision": 0.875,
+    "recall": 0.9032258064516129,
+    "f1-score": 0.8888888888888888,
+    "support": 62.0
+  },
+  "Art Deco architecture": {
+    "precision": 0.5106382978723404,
+    "recall": 0.5581395348837209,
+    "f1-score": 0.5333333333333333,
+    "support": 86.0
+  },
+  "Art Nouveau architecture": {
+    "precision": 0.7301587301587301,
+    "recall": 0.4946236559139785,
+    "f1-score": 0.5897435897435898,
+    "support": 93.0
+  },
+  "Baroque architecture": {
+    "precision": 0.5176470588235295,
+    "recall": 0.6376811594202898,
+    "f1-score": 0.5714285714285714,
+    "support": 69.0
+  },
+  "Bauhaus architecture": {
+    "precision": 0.45454545454545453,
+    "recall": 0.5208333333333334,
+    "f1-score": 0.4854368932038835,
+    "support": 48.0
+  },
+  "Beaux-Arts architecture": {
+    "precision": 0.43859649122807015,
+    "recall": 0.38461538461538464,
+    "f1-score": 0.4098360655737705,
+    "support": 65.0
+  },
+  "Byzantine architecture": {
+    "precision": 0.7380952380952381,
+    "recall": 0.6458333333333334,
+    "f1-score": 0.6888888888888889,
+    "support": 48.0
+  },
+  "Chicago school architecture": {
+    "precision": 0.5087719298245614,
+    "recall": 0.6744186046511628,
+    "f1-score": 0.58,
+    "support": 43.0
+  },
+  "Colonial architecture": {
+    "precision": 0.2972972972972973,
+    "recall": 0.1527777777777778,
+    "f1-score": 0.2018348623853211,
+    "support": 72.0
+  },
+  "Deconstructivism": {
+    "precision": 0.717391304347826,
+    "recall": 0.6470588235294118,
+    "f1-score": 0.6804123711340206,
+    "support": 51.0
+  },
+  "Edwardian architecture": {
+    "precision": 0.5,
+    "recall": 0.21428571428571427,
+    "f1-score": 0.3,
+    "support": 42.0
+  },
+  "Georgian architecture": {
+    "precision": 0.4142857142857143,
+    "recall": 0.5,
+    "f1-score": 0.453125,
+    "support": 58.0
+  },
+  "Gothic architecture": {
+    "precision": 0.8571428571428571,
+    "recall": 0.8235294117647058,
+    "f1-score": 0.84,
+    "support": 51.0
+  },
+  "Greek Revival architecture": {
+    "precision": 0.6805555555555556,
+    "recall": 0.620253164556962,
+    "f1-score": 0.6490066225165563,
+    "support": 79.0
+  },
+  "International style": {
+    "precision": 0.6153846153846154,
+    "recall": 0.5,
+    "f1-score": 0.5517241379310345,
+    "support": 64.0
+  },
+  "Novelty architecture": {
+    "precision": 0.896551724137931,
+    "recall": 0.896551724137931,
+    "f1-score": 0.896551724137931,
+    "support": 58.0
+  },
+  "Palladian architecture": {
+    "precision": 0.3561643835616438,
+    "recall": 0.5,
+    "f1-score": 0.416,
+    "support": 52.0
+  },
+  "Postmodern architecture": {
+    "precision": 0.4307692307692308,
+    "recall": 0.5714285714285714,
+    "f1-score": 0.49122807017543857,
+    "support": 49.0
+  },
+  "Queen Anne architecture": {
+    "precision": 0.7181818181818181,
+    "recall": 0.7247706422018348,
+    "f1-score": 0.7214611872146118,
+    "support": 109.0
+  },
+  "Romanesque architecture": {
+    "precision": 0.6326530612244898,
+    "recall": 0.6739130434782609,
+    "f1-score": 0.6526315789473685,
+    "support": 46.0
+  },
+  "Russian Revival architecture": {
+    "precision": 0.7333333333333333,
+    "recall": 0.8148148148148148,
+    "f1-score": 0.7719298245614035,
+    "support": 54.0
+  },
+  "Tudor Revival architecture": {
+    "precision": 0.7413793103448276,
+    "recall": 0.6231884057971014,
+    "f1-score": 0.6771653543307087,
+    "support": 69.0
+  },
+  "accuracy": 0.6049382716049383,
+  "macro avg": {
+    "precision": 0.6084679620337312,
+    "recall": 0.6065331275104474,
+    "f1-score": 0.5993838892149977,
+    "support": 1539.0
+  },
+  "weighted avg": {
+    "precision": 0.6143652872166354,
+    "recall": 0.6049382716049383,
+    "f1-score": 0.6020297119105246,
+    "support": 1539.0
+  }
+}

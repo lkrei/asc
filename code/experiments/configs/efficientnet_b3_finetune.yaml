@@ -1,0 +1,12 @@
+model: efficientnet_b3
+freeze-backbone: false
+epochs: 40
+batch-size: 16
+image-size: 300
+lr-head: 0.001
+lr-backbone: 0.00001
+weight-decay: 0.0001
+label-smoothing: 0.1
+augmentation: autoaugment
+patience: 7
+experiment-name: efficientnet_b3_finetune

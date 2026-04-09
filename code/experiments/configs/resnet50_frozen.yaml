@@ -1,0 +1,12 @@
+model: resnet50
+freeze-backbone: true
+epochs: 20
+batch-size: 32
+image-size: 224
+lr-head: 0.001
+lr-backbone: 0.0
+weight-decay: 0.0001
+label-smoothing: 0.0
+augmentation: basic
+patience: 10
+experiment-name: resnet50_frozen
