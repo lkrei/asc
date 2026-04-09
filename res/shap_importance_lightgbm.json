@@ -1,0 +1,122 @@
+[
+  {
+    "feature": "vegetation_ratio",
+    "importance": 0.7129555282959325
+  },
+  {
+    "feature": "wall_mean_hue",
+    "importance": 0.6286751800969054
+  },
+  {
+    "feature": "sky_ratio",
+    "importance": 0.5160850461227865
+  },
+  {
+    "feature": "color_entropy",
+    "importance": 0.4908052020499747
+  },
+  {
+    "feature": "wall_mean_val",
+    "importance": 0.4770883029599202
+  },
+  {
+    "feature": "vertical_symmetry",
+    "importance": 0.46925603619393336
+  },
+  {
+    "feature": "horizontal_symmetry",
+    "importance": 0.4204524829391235
+  },
+  {
+    "feature": "wall_mean_sat",
+    "importance": 0.39618102251529
+  },
+  {
+    "feature": "wall_std_hue",
+    "importance": 0.37973791744151275
+  },
+  {
+    "feature": "other_ratio",
+    "importance": 0.3696256369175957
+  },
+  {
+    "feature": "ground_ratio",
+    "importance": 0.3338407652747202
+  },
+  {
+    "feature": "vegetation_to_building",
+    "importance": 0.3036562444814105
+  },
+  {
+    "feature": "building_ratio",
+    "importance": 0.2652191501854202
+  },
+  {
+    "feature": "wall_ratio",
+    "importance": 0.2545771845307323
+  },
+  {
+    "feature": "balcony_ratio",
+    "importance": 0.16996023637274923
+  },
+  {
+    "feature": "column_ratio",
+    "importance": 0.159471954947701
+  },
+  {
+    "feature": "sky_to_total",
+    "importance": 0.10805326165092749
+  },
+  {
+    "feature": "roof_ratio",
+    "importance": 0.03328260425626292
+  },
+  {
+    "feature": "roof_to_wall",
+    "importance": 0.026068299378287932
+  },
+  {
+    "feature": "roof_mean_val",
+    "importance": 0.02154275958562042
+  },
+  {
+    "feature": "door_ratio",
+    "importance": 0.019786026144809878
+  },
+  {
+    "feature": "roof_mean_hue",
+    "importance": 0.015758481285484557
+  },
+  {
+    "feature": "roof_std_hue",
+    "importance": 0.015058129199986638
+  },
+  {
+    "feature": "roof_mean_sat",
+    "importance": 0.014616332180138256
+  },
+  {
+    "feature": "door_to_wall",
+    "importance": 0.012632502307460962
+  },
+  {
+    "feature": "window_ratio",
+    "importance": 0.006345893453871687
+  },
+  {
+    "feature": "glass_to_wall",
+    "importance": 0.003104143988079293
+  },
+  {
+    "feature": "window_regularity",
+    "importance": 0.0014322154968619447
+  },
+  {
+    "feature": "avg_window_area",
+    "importance": 0.0010679315126456413
+  },
+  {
+    "feature": "window_count",
+    "importance": 0.00043481358159185474
+  }
+]
